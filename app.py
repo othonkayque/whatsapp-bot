@@ -3,7 +3,7 @@ from datetime import datetime
 import pyautogui
 import time
 
-msg_padrao = "esta é uma mensagem padrão"
+msg_padrao = "follow me on github: https://github.com/othonkayque"
 contato = "+00000000000"
 
 contato = pyautogui.prompt("Digite o numero ", "Numero da pessoa", contato)
